@@ -1,0 +1,249 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"aver",
+				"averageVolume"
+			],
+			[
+				"page",
+				"pageSource"
+			],
+			[
+				"vol",
+				"volumeFilter"
+			],
+			[
+				"produ",
+				"productID"
+			],
+			[
+				"the",
+				"theRequest"
+			],
+			[
+				"prod",
+				"productId"
+			],
+			[
+				"account",
+				"accountIdStr"
+			],
+			[
+				"accou",
+				"accountIdStr"
+			],
+			[
+				"acc",
+				"accountIdStr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ProtectedMethod/vedge-api"
+	],
+	"file_history":
+	[
+		"/C/Users/ProtectedMethod/valorsedge/start.js",
+		"/C/Users/ProtectedMethod/valorsedge/app.js",
+		"/C/Users/ProtectedMethod/Desktop/ForexTrader/ForexTrader.py",
+		"/C/Users/ProtectedMethod/Temporary/deleteduplicates.lua",
+		"/C/Users/ProtectedMethod/Desktop/AI/Universe.py",
+		"/C/Users/ProtectedMethod/ropay/wsgi/myflaskapp.py",
+		"/C/Users/ProtectedMethod/Downloads/gamelog.php",
+		"/C/Users/ProtectedMethod/Downloads/ropay_2016-05-30.sql",
+		"/C/Users/ProtectedMethod/Downloads/rc7/rc7.exe",
+		"/C/Users/ProtectedMethod/Desktop/bot.js",
+		"/C/Users/ProtectedMethod/Desktop/sniper.py",
+		"/C/Users/ProtectedMethod/Desktop/RC7 NEW (1)/Memcheck (1).c",
+		"/C/Users/ProtectedMethod/Desktop/RC7 NEW (1)/-0xAzul _2_.c",
+		"/C/Users/ProtectedMethod/Desktop/RC7 NEW (1)/memcheck_1_.c",
+		"/C/Users/ProtectedMethod/Desktop/RC7 NEW (1)/-0xAzul _2_.c-",
+		"/C/Users/ProtectedMethod/Desktop/Memcheck.c",
+		"/C/Users/ProtectedMethod/AppData/Local/Google/Chrome/User Data/Profile 1/Extensions/jfbnmfgkohlfclfnplnlenbalpppohkm/2.2.23_0/lib/preroblox.js",
+		"/C/Users/ProtectedMethod/Google Drive/2015-2016 backup/Documents/ROBLOX/TradingBot2/itemdata.py",
+		"/C/Users/ProtectedMethod/Google Drive/2015-2016 backup/Documents/ROBLOX/TradingBot2/trading.py",
+		"/C/Users/ProtectedMethod/Google Drive/2015-2016 backup/Documents/ROBLOX/TradingBot2/pagetools.py",
+		"/C/Users/ProtectedMethod/Google Drive/2015-2016 backup/Documents/ROBLOX/TradingBot2/items.py",
+		"/C/Users/ProtectedMethod/Downloads/PyQt5_gpl-5.6/PyQt5_gpl-5.6/__init__.py",
+		"/C/Users/ProtectedMethod/Google Drive/2015-2016 backup/Documents/ROBLOX/TradingBot/TradingBot.py",
+		"/C/Users/ProtectedMethod/Downloads/source-archive/readertray/trunk/readergui.py",
+		"/C/Users/ProtectedMethod/Downloads/source-archive/readertray/trunk/reader.py",
+		"/C/Users/ProtectedMethod/AppData/Local/Google/Chrome/User Data/Profile 1/Extensions/jfbnmfgkohlfclfnplnlenbalpppohkm/2.2.23_0/lib/highcharts.js",
+		"/C/Users/ProtectedMethod/Desktop/ForexTrader/defaults.py",
+		"/C/Users/ProtectedMethod/Google Drive/2015-2016 backup/ropay_2016-05-30.sql",
+		"/C/Users/ProtectedMethod/Desktop/ForexTrader/debug.bat",
+		"/C/Users/ProtectedMethod/Google Drive/Passwords/passwords.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"let",
+			"lett",
+			"actualPipDifference",
+			"ProtectedMethod",
+			"decode",
+			"DLLMAINC",
+			"main",
+			"volume",
+			"demand",
+			"commission",
+			"width ",
+			"res.rap =",
+			"inventoryhandler",
+			"rap"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"actualMinimumPipDifference"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "vedgeapi.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
